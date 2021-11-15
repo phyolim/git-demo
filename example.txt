@@ -1,5 +1,5 @@
 main brach line 1 - branch A edit 1
-main brach line 2
+main brach line 2 - branch B edit 2
 main brach line 3
 main brach line 4
 main brach line 5
